@@ -38,7 +38,7 @@
 		},
 		{
 			"Name": "FicsitWiremod",
-			"SemVersion": "^0.10.90",
+			"SemVersion": "^0.10.91",
 			"bIsOptional": false,
 			"Enabled": true
 		}
